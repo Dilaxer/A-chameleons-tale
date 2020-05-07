@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Dylan stuff/Scenes/6.unity
     guid: c3e8ba47644e19144b8f3f50662ee45f
   - enabled: 1
+    path: Assets/Mikes stuff/fly catching.unity
+    guid: e210a026d25a540bfad8c43d8dbf17f2
+  - enabled: 1
     path: Assets/Dylan stuff/Scenes/You Won.unity
     guid: 17a504fad3704ee45b4b06f952bc97a9
   m_configObjects: {}

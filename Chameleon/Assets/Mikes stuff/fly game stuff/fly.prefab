@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1016646855196514340}
   - component: {fileID: 2353978402583010905}
   - component: {fileID: 8801447892123620582}
+  - component: {fileID: -7648889455013996084}
   m_Layer: 0
   m_Name: fly
   m_TagString: Bugs
@@ -71,6 +72,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46e167148ad764b4f8be61f05c6c27f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &-7648889455013996084
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2219765832830983777}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0a26a8a69b563444986ff8c06b2a1ada, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &4984042292126149980
 GameObject:
   m_ObjectHideFlags: 0
